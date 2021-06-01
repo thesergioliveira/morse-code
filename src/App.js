@@ -1,9 +1,10 @@
+import Input from "./components/Input";
 
 
 function App() {
   return (
     <div>
-      Hi
+      <Input/>
     </div>
   );
 }
