@@ -1,1 +1,1 @@
-# Morse Code Trasnlation App
+# Morse Code Translation App
