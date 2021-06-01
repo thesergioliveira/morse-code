@@ -1,0 +1,17 @@
+// @import "../abstracts/mixins";
+
+.user-input{ 
+    // @include border;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    textarea{
+        width: 50vw;
+        height: 30vh;
+    }
+    p{
+        font-size: 1em;
+        font-weight: lighter;
+    }
+}
